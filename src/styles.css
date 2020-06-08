@@ -1,0 +1,28 @@
+/* Add application styles & imports to this file! */
+.tarj {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+tr {
+    border-radius: 3px;
+}
+th {
+    background: white;
+    border: gray 1px solid;
+    color: #424242;
+}
+
+td {
+    text-align: center;
+    background: #f8f9fa;
+}
+
+#susc {
+    border-radius: 7px;
+}
+
+label {
+    color: #707070;
+}
